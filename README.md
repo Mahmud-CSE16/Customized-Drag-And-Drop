@@ -7,6 +7,14 @@
 
 A Flutter application demonstrating various implementations of draggable grid layouts including responsive and staggered grid patterns with intuitive drag-and-drop functionality.
 
+## Screenshots
+
+<div>
+<img src="https://raw.githubusercontent.com/Mahmud-CSE16/Customized-Drag-And-Drop/main/Screenrecords/dashboard.jpeg" alt="Dashboard" width="300"/>
+<img src="https://raw.githubusercontent.com/Mahmud-CSE16/Customized-Drag-And-Drop/main/Screenrecords/responsive.jpeg" alt="Responsive" width="300"/>
+<img src="https://raw.githubusercontent.com/Mahmud-CSE16/Customized-Drag-And-Drop/main/Screenrecords/staggered.jpeg" alt="Staggered" width="300"/>
+</div>
+
 ## Features
 
 * **Responsive Draggable Grid**: A grid layout that automatically adapts to different screen sizes while maintaining drag and drop functionality

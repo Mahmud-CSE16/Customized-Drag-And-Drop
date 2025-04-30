@@ -10,9 +10,9 @@ A Flutter application demonstrating various implementations of draggable grid la
 ## Screenshots
 
 <div>
-<img src="https://raw.githubusercontent.com/Mahmud-CSE16/Customized-Drag-And-Drop/main/Screenrecords/dashboard.jpeg" alt="Dashboard" width="300"/>
-<img src="https://raw.githubusercontent.com/Mahmud-CSE16/Customized-Drag-And-Drop/main/Screenrecords/responsive.jpeg" alt="Responsive" width="300"/>
-<img src="https://raw.githubusercontent.com/Mahmud-CSE16/Customized-Drag-And-Drop/main/Screenrecords/staggered.jpeg" alt="Staggered" width="300"/>
+<img src="https://raw.githubusercontent.com/Mahmud-CSE16/Customized-Drag-And-Drop/main/Screenrecords/dashboard.jpeg" alt="Dashboard" width="200"/>
+<img src="https://raw.githubusercontent.com/Mahmud-CSE16/Customized-Drag-And-Drop/main/Screenrecords/responsive.jpeg" alt="Responsive" width="200"/>
+<img src="https://raw.githubusercontent.com/Mahmud-CSE16/Customized-Drag-And-Drop/main/Screenrecords/staggered.jpeg" alt="Staggered" width="200"/>
 </div>
 
 ## Features
